@@ -1,0 +1,25 @@
+{
+  "name": "social-media-math",
+  "version": "1.0.0",
+  "description": "Mathematical formulas for social media marketing and management",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Brandon Himpfen",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonhimpfen/social-media-math.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/social-media-math/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/social-media-math#readme",
+  "keywords": [
+    "social",
+    "media",
+    "marketing",
+    "math"
+  ]
+}
